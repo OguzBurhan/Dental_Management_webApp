@@ -15,4 +15,4 @@ Technologies Used:
 Frontend: React.js
 Backend: Node.js, Express.js
 Styling: Tailwind CSS
-Database: [Database Name]
+Database: MongoDB
